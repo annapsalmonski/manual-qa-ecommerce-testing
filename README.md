@@ -53,6 +53,13 @@ Two issues were documented during the testing process:
 
 **28 out of 30 test cases passed successfully. Two test cases resulted in FAIL and were documented for further analysis.**
 
+## 🛠️ Tools
+
+- **Sauce Labs** — Application used to perform manual functional testing.
+- **Microsoft Excel** — Creation and management of test cases and execution results.
+- **Microsoft Word** — Creation of Bug Reports and Test Summary Report.
+- **GitHub** — Repository management, documentation storage and version control through commits.
+
 ## 📁 Project Structure
 
 ```text
